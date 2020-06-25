@@ -11,7 +11,7 @@ public class Books {
 	private int bookID;
 	private String bookName;//书名
 	private int bookCounts;//书的数量
-	private String detail;
+	private String detail;//书的详解
 	
 	public Books() {
 		super();
