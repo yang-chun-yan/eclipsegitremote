@@ -10,7 +10,7 @@ public class Books {
 	private String bookUser;
 	private int bookID;
 	private String bookName;//书名
-	private int bookCounts;
+	private int bookCounts;//书的数量
 	private String detail;
 	
 	public Books() {
