@@ -7,6 +7,7 @@ package com.yang.pojo;
 */
 public class Books {
     
+	private String bookUser;
 	private int bookID;
 	private String bookName;
 	private int bookCounts;
