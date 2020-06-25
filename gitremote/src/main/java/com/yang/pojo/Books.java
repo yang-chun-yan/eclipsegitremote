@@ -8,7 +8,7 @@ package com.yang.pojo;
 public class Books {
     
 	private String bookUser;
-	private int bookID;
+	private int bookID;//书的id
 	private String bookName;//书名
 	private int bookCounts;//书的数量
 	private String detail;//书的详解
