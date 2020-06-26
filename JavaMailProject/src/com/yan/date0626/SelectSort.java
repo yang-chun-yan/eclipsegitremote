@@ -3,7 +3,7 @@ package com.yan.date0626;
 * @author ycy
 * @version 1.0
 * @createDate 创建时间：2020/06/26 15:06:06
-* @explain(类说明):..选择排序
+* @explain(类说明):..选择排序(選択ソート)
 */
 public class SelectSort {
    public static void main(String[] args) {
